@@ -1,15 +1,13 @@
-# Cheat-Sheet For if I'm Not Around
+# Ficha de ayuda si es que ya no estoy aqui
+Esta es una plantilla para una ficha de ayuda reusable y modificable con el fin de organizar tus asuntos personales para que alguien pueda conseguirlos y acceder a lo que necesiten sin agregar estrés indebido o que tengan que buscar tus números de cuentas, contraseñas, o papeles tirados. La misma está escrita en Markdown.
 
-This is a reusable and updatable cheat sheet template for organizing your personal affairs so that someone can pick up and access what they need to without adding undue stress or having to dig for account numbers, passwords, or papers lying around. It is written in Markdown.
+Por propósitos de seguridad, asegurate de renombrar el archivo example.md, ya que el gitignore solo va a rastrear ese archivo y el README.
 
-For security purposes, make sure to rename the example.md file as the gitignore will only track that file and the readme. 
+Tambien te recomiendo no escribir ninguna frase criptográfica o la contraseña maestra de un administrador de contraseñas en el mismo documento, si no más bien que lo imprimas (al documento), que escribas la información con lapicera, y que la guardes en múltiples lugares físicos seguros.
 
-I would also advise that you don't write down any crypto phrases or password manager master passwords directly in the document but rather to print it out, add that information in pen, and store it in multiple, secure physical locations.
+### Notas:
+Yo no pretendo tener ningún tipo de conocimiento legal, así que nada de esto tendría que considerarse como aviso legal.
 
+También sé que esto está muy centrado en EE. UU., así que puede que tengan que modificarlos aquellos que no viven en los Estados Unidos.
 
-### Notes: 
-I do not pretend to have any sort of legal knowledge so none of this should be taken as legal advice. 
-
-I also realize that this is very US-centric so it may have to be modified for those not living in the US. 
-
-Feel free to make a PR if I have forgotten anything important that you think of. 
+Sentite libre de enviar un PR si es que me he olvidado de algo importante el cual puedas recordar.
