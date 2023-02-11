@@ -1,54 +1,55 @@
-# Household/Estate Cheat Sheet
+# Hoja de referencia del hogar/patrimonio
 
-Last updated: *write current date here*
+Última vez actualizado: *escribe la fecha actual aquí*
 
-- ## Passwords and Physical Access
-  *explain how to access your saved passwords as well as locations to important keys or other physical security codes*
-  - 2FA:
-    - *List codes and how to access*
-  - Password Manager(s):
-    - Username:
-    - Password:
-  - Physical Access:
+- ## Contraseñas y Acceso Físico
+  *explicá cómo acceder a tus contraseñas guardadas, al igual que ubicaciones a llaves importantes y otros tipos de códigos de seguridad físicos*
+  - A2F:
+    - *Haz una lista de códigos y como accederlos*
+  - Administrador(es) de contraseñas:
+    - Nombre de usuario:
+    - Contraseña:
+  - Acceso Físico:
 
-- ### Finances:
-  -  Bank, HSA, and Credit Card Accounts:
-    - | Name/Institution      | Account Number/Routing Number |
+- ### Finanzas:
+  -  Banco, HSA, y Cuentas de Tarjeta de Crédito:
+    - | Nombre/Institución      | Número de Cuenta/Número de Ruta |
       | ----------- | ----------- |
-      | Example Bank      |  123456789/1200      |
-      | Example Card   | 12300 000 0000 0000        |
-  -  How to Access Retirement Funds:
-       - *Clear instructions on how to access*
-  -  How to Access Crypto:
-       - *Clear instructions on how to access*
-  - ### Mortgage:
-    - Servicer:
-    - Account Number:
-    - Payment Date:
-  - ### Other Debts:
-    - *List all other debts that may need to be paid*
-  - ### Budgeting Information:
+      | Ejemplo Banco      |  123456789/1200      |
+      | Ejemplo Tarjeta   | 12300 000 0000 0000        |
+  -  Cómo acceder a mis fondos de jubilación:
+       - *Instrucciones claras en cómo accederlos*
+  -  Cómo acceder a mi Cripto:
+       - *Instrucciones claras en cómo accederlos*
+  - ### Hipoteca:
+    - Administrador:
+    - Número de Cuenta:
+    - Fecha de Pago:
+  - ### Otras Deudas:
+    - *Haz una lista de todas las otras deudas que se puedan tener que pagar*
+  - ### Información de presupuesto:
+    - *Haz una lista de nombres de usuario de Quickbooks/YNAB y cómo accederlos*
     - *List Quickbooks/YNAB account username and how to access*
 
-- ### Utilities:
-  -  Phone Service:
-  -  Electric:
+- ### Utilidades:
+  -  Servicio de Teléfono:
+  -  Eléctrico:
   -  Gas:
-  -  Water:
+  -  Agua:
 
-- ### Important Documents:
-  -  Life Insurance Policy
-  -  Birth Certificate
-  -  Marriage License
-  -  Automobile Titles
-  -  Property Deeds
+- ### Documentos Importantes:
+  -  Póliza de seguro de vida
+  -  Certificado de Nacimiento
+  -  Licencia de Matrimonio
+  -  Títulos de automóviles
+  -  Escrituras de propiedad
 
-- ### Incapacitation Related Legal Documents:
-  -  Will
-  -  Living trust
-  -  Power of Attorney
+- ### Documentos Legales Relacionados a la Incapacitación:
+  -  Testamento
+  -  Fideicomiso en vida revocable
+  -  Contrato de mandato
 
-- ### Important Notes:
+- ### Notas Importantes:
   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 
