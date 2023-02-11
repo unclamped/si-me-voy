@@ -29,7 +29,6 @@
     - *Haz una lista de todas las otras deudas que se puedan tener que pagar*
   - ### Información de presupuesto:
     - *Haz una lista de nombres de usuario de Quickbooks/YNAB y cómo accederlos*
-    - *List Quickbooks/YNAB account username and how to access*
 
 - ### Utilidades:
   -  Servicio de Teléfono:
