@@ -1,17 +1,18 @@
-# Ignore everything
+# Ignorar todo
 *
 
-# But not these files...
+# Excepto estos archivos...
 !.gitignore
 !LICENSE
 !README.md
-!example.md
-!example.odt
+!LÉEME.md
+!ejemplo.md
+!ejemplo.odt
 # etc...
 
-# ...even if they are in subdirectories
+# ...incluso si es que estan en subdirectorios
 !*/
 
-# if the files to be tracked are in subdirectories
+# Si los archivos a rastrear estan en subdirectorios
 !*/a/b/file1.txt
 !*/a/b/c/*
